@@ -6,7 +6,15 @@
 5. 기존 분들은 새로 참가 하신 분들을 적극적으로 환영 해주세요.
 6. \#Random 채널은 사용하지 않습니다.
 7. 소스코드, 자료, 정보등은 오픈화를 지향합니다.(주의: 내외부에 공개해서는 안되는 정보의 발설은 삼가해주세요.)
-
+8. 자기 프로필에 간단하게 자기 소개를 남겨주세요.(Edit your Profile > What I do)
+```
+예)
+Kodevelopers 에서 Infra쪽 Manager를 하고 있습니다. 
+최근 관심은 Microservice와 Deep Learning관련입니다.
+특기는 입코딩과 Oracle SQL 튜닝, ELK관련 설치 튜닝은 무리.
+어플리쪽은 PHP가 메인. DB쪽은 Oracle, Mongodb, Elasticsearch 
+웹서버는 Apache메인에 Nginx는 잘하고 싶은 열망만 있습니다.
+```
 서로 같이 만들어 가는 성장형! 커뮤니티 입니다. 많은 관심과 적극적인 참여 부탁 드립니다. 
 
 ##\#book 
