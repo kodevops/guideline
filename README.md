@@ -36,17 +36,7 @@ Kodevelopers 에서 Infra쪽 Manager를 하고 있습니다.
 1. 랜덤 채널을 없애고 하나로 통일한 채널입니다.
 2. 자신이 보고 괜찮았던 기술 관련된 정보 공유나 일상 잡담(아재개그??)을 합니다.
 3. 반응이 좋았던 정보는 [일본에서 일하는 한국인 개발자 모임](https://www.facebook.com/groups/1726012127643525/)에 무허가 공유 됩니다. 
-4. BOT(GitHub,RSS)들이 유용한 정보(?)를 않궁금 해도 알려줍니다.
-```
-#RSS List
-1. SK플래닛 기술 블로그(http://readme.skplanet.com/)
-2. kakao 기술 블로그(http://tech.kakao.com/)
-3. Naver D2 Blog(http://d2.naver.com/)
-4. LINE Engineers' Blog(http://developers.linecorp.com/blog/ko/)
-5. Hacker News: Newest - points=500(https://news.ycombinator.com/over?points=500)
-구독하고 싶은 RSS가 있으면 알려 주세요.(※주의:잦은 발신은 제외)
-RSS구독이 많아지면 #rss채널을 따로 만들 계획.
-```
+
 
 ##\#hello
 처음 슬랙에 참여할시 자기 소개를 하는 채널
@@ -101,3 +91,21 @@ RSS구독이 많아지면 #rss채널을 따로 만들 계획.
 포켓몬 원정대
 
 1. 포켓몬고와 관련된 정보 및 팁을 공유 해주세요.
+
+
+##\#rss
+구독중인 블로그, 홈페이지에 새로우 기사가 올라오면 알림이 오는 채널 입니다.
+구독하고 싶은 RSS가 있으면 알려 주세요.
+```
+#RSS List
+01. Kodeveloper Blog(http://kodeveloper.com/)
+02. SK플래닛 기술 블로그(http://readme.skplanet.com/)
+03. kakao 기술 블로그(http://tech.kakao.com/)
+04. Naver D2 Blog(http://d2.naver.com/)
+05. LINE Engineers' Blog(http://developers.linecorp.com/blog/ko/)
+06. Amazon Web Services 한국 블로그(https://aws.amazon.com/ko/blogs/korea/)
+07. VCNC Engineering Blog(http://engineering.vcnc.co.kr/)
+08. Outsider's Dev Story(https://blog.outsider.ne.kr/)
+09. 잔디 블로그(http://blog.jandi.com/ko/)
+10. 티몬의 개발이야기(http://tmondev.blog.me/)
+```
