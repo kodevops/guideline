@@ -60,7 +60,7 @@ Kodevelopers 에서 Infra쪽 Manager를 하고 있습니다.
 2. 다단계 홍보, 짧은 주기의 지나친 특정 회사의 홍보는 금합니다.
 
 ##\#struggle
-다양한 분야에서 일하는 엔지니어들의 고군분투기 채널 - [이력 관리](https://github.com/kodevops/struggle)
+다양한 분야에서 일하는 엔지니어들의 고군분투기 채널 - [이력 관리](https://kodeveloper.com/category/struggle/)
 
 1. 발표자가 3명이상 모이면 공유회를 개최 합니다.(필수 조건)
 2. 자발적으로 발표 하실분을 상시 모집 합니다.
@@ -109,3 +109,4 @@ Kodevelopers 에서 Infra쪽 Manager를 하고 있습니다.
 09. 잔디 블로그(http://blog.jandi.com/ko/)
 10. 티몬의 개발이야기(http://tmondev.blog.me/)
 ```
+
