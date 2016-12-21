@@ -1,4 +1,4 @@
-#Kodevelopers Guideline
+#Kodeveloper Guideline
 1. 새로 참가 하신 분들이 대화에 참여 할수 있게 채널내에서는 상호 존중과 배려를 위해 존칭을 써주세요. 
 2. 지나친 비하 발언 및 욕설은 자제 해주세요.
 3. 잘못된 정보 전달은 사양말고 지적 해주세요.
@@ -9,7 +9,7 @@
 8. 반드시 프로필에 이름(실명)및 간단하게 자기소개를 남겨주세요.(Edit your Profile > First name, Last name, What I do)
 ```
 예)
-Kodevelopers 에서 Infra쪽 Manager를 하고 있습니다. 
+Kodeveloper 에서 Infra쪽 Manager를 하고 있습니다. 
 최근 관심은 Microservice와 Deep Learning관련입니다.
 특기는 입코딩과 Oracle SQL 튜닝, ELK관련 설치 튜닝은 무리.
 어플리쪽은 PHP가 메인. DB쪽은 Oracle, Mongodb, Elasticsearch 
@@ -60,15 +60,18 @@ Kodevelopers 에서 Infra쪽 Manager를 하고 있습니다.
 2. 다단계 홍보, 짧은 주기의 지나친 특정 회사의 홍보는 금합니다.
 
 ##\#struggle
-다양한 분야에서 일하는 엔지니어들의 고군분투기 채널 - [이력 관리](https://kodeveloper.com/category/struggle/)
+다양한 분야에서 일하는 엔지니어들의 고군분투기 채널 - [이력 관리](https://kodeveloper.com/category/struggle/)<br />
 
 1. 발표자가 3명이상 모이면 공유회를 개최 합니다.(필수 조건)
 2. 자발적으로 발표 하실분을 상시 모집 합니다.
 3. 장소 대여 해주실분을 상시 모집 합니다.
 4. 선순환 구조를 지향하기 위해 '코드 챌린지(Kode Challenge)'를 실시합니다.
 5. 고군분투기에서 나온 자료는 내외부에 공개 합니다.(내외부에 공개해서는 안되는 자료는 삼가해주세요.)
-6. 반응이 좋았던 내용에 대해서는 2탄, 3탄, 4... 시리즈형 발표 환영 합니다.
-
+6. 반응이 좋았던 내용에 대해서는 2탄, 3탄, 4... 시리즈형 발표 환영 합니다.    
+7. 발표자는 발표할 주제를 [고군분투기 Issues](https://github.com/kodevops/struggle/issues/)에 등록 하시고,(주제=Issue)<br />
+[예](https://github.com/kodevops/struggle/issues/1)와 같이 댓글로 발표 하신다고 남겨 주시면 됩니다.(중복 방지를 위해서)<br />
+※발표 주제가 마땅히 떠오르시지 않는분은 다른분들이 궁금해 하시는 [주제](https://github.com/kodevops/struggle/issues)중에 하나 선택하셔서 하시면 됩니다.
+8. 참가자는 [주제](https://github.com/kodevops/struggle/issues)들 중에서 듣고 싶은 주제가 있으면 댓글로 +1를 남겨주시면 됩니다.
 ```
 #코드 챌린지(Kode Challenge)란?(≒아이스 버킷 챌린지)
 1. 선순환 구조를 지향하기 위해, 발표자는 한분을 지정할수 있는 지목권을 획득합니다.
@@ -110,3 +113,5 @@ Kodevelopers 에서 Infra쪽 Manager를 하고 있습니다.
 10. 티몬의 개발이야기(http://tmondev.blog.me/)
 ```
 
+##\#childcare
+일본에서 아이들을 키우면서 생기는 수많은 고민들을 상담 공유하는 채널 입니다.
