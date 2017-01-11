@@ -115,3 +115,6 @@ Kodeveloper 에서 Infra쪽 Manager를 하고 있습니다.
 
 ##\#childcare
 일본에서 아이들을 키우면서 생기는 수많은 고민들을 상담 공유하는 채널 입니다.
+
+##\#lifehack 
+잡다한 생활의 지혜를 나누는 채널 입니다.
