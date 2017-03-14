@@ -118,3 +118,7 @@ Kodeveloper 에서 Infra쪽 Manager를 하고 있습니다.
 
 ##\#lifehack 
 잡다한 생활의 지혜를 나누는 채널 입니다.
+
+
+##\#aws 
+KRUG 도쿄지부
