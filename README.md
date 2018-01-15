@@ -162,9 +162,6 @@ onamae.com 쓰고 있는데 설정은 따로 건드린건 없고, 도메인 기�
 10. 티몬의 개발이야기(http://tmondev.blog.me/)
 ```
 
-## \#childcare_육아노트
-일본에서 아이들을 키우면서 생기는 수많은 고민들을 상담 공유하는 채널 입니다.
-
 ## \#lifehack_생활팁
 잡다한 생활의 지혜를 나누는 채널 입니다.
 
@@ -178,4 +175,5 @@ KRUG 도쿄지부
 @manggu
 @haneri
 @daebum-lee
+@neverone
 ```
