@@ -76,8 +76,8 @@ T형 엔지니어
 다양한 분야에서 일하는 엔지니어들의 고군분투기 채널 - [블로그](https://kodeveloper.com)<br />
 
 1. 자발적으로 발표 하실분을 상시 모집 합니다.
-  - [정식 발표자 모집](https://github.com/kodevops/struggle/issues/5)
-  - [LT 발표자 모집](https://github.com/kodevops/struggle/issues/5)
+    - [정식 발표자 모집](https://github.com/kodevops/struggle/issues/5)
+    - [LT 발표자 모집](https://github.com/kodevops/struggle/issues/5)
 2. 장소 대여 해주실분을 상시 모집 합니다.
 
 
