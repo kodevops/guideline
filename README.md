@@ -172,4 +172,6 @@ GCP에 관심이 많으신분들은 참석 해보세요!
 @KIM HYEMI
 @Seongjoo KIM
 @Chung
+@정우현
+@Eunsu Jang
 ```
