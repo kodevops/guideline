@@ -4,7 +4,7 @@
 3. 잘못된 정보 전달은 사양말고 지적 해주세요.
 4. \#Random 채널은 사용하지 않습니다.
 5. 소스코드, 자료, 정보등은 오픈화를 지향합니다.(주의: 내외부에 공개해서는 안되는 정보의 발설은 삼가 해주세요.)
-6. 새로 참가 하신 분들은 반드시 #hello 채널에 자기 소개를 남겨주세요.
+6. 새로 참가 하신 분들은 반드시 #hello_자기소개 채널에 자기 소개를 남겨주세요.
 7. 기존 분들은 새로 참가 하신 분들을 적극적으로 환영 해주세요.
 8. 반드시 프로필에 이름(실명)및 간단하게 자기소개를 남겨주세요.(Edit your Profile > First name, Last name, What I do)
 ```
@@ -100,6 +100,12 @@ T형 엔지니어
 
 여러분들의 적극적인 참여에 의해서 공유회가 개최되니, 자신의 고군분투기를 다른 사람들에게 알려주세요!
 
+## \#confetence_이벤트공유
+기술 및 다양한 이벤트에 대해서 공유해주세요!
+
+## \#gourmet_맛집 \#식생활
+알고있는 맛집을 공유해요!
+
 ## \#want_희망사항
 나는 원한다! 채널
 
@@ -122,30 +128,8 @@ https://goo.gl/forms/3myFzMCj9OcGdDnJ2
 onamae.com 쓰고 있는데 설정은 따로 건드린건 없고, 도메인 기간도 남아있는데....뭐가 문제일까요 ~?
 ```
 
-
-## \#rss_구독
-구독중인 블로그, 홈페이지에 새로우 기사가 올라오면 알림이 오는 채널 입니다.
-구독하고 싶은 RSS가 있으면 알려 주세요.
-```
-#RSS List
-01. Kodeveloper Blog(http://kodeveloper.com/)
-02. SK플래닛 기술 블로그(http://readme.skplanet.com/)
-03. kakao 기술 블로그(http://tech.kakao.com/)
-04. Naver D2 Blog(http://d2.naver.com/)
-05. LINE Engineers' Blog(http://developers.linecorp.com/blog/ko/)
-06. Amazon Web Services 한국 블로그(https://aws.amazon.com/ko/blogs/korea/)
-07. VCNC Engineering Blog(http://engineering.vcnc.co.kr/)
-08. Outsider's Dev Story(https://blog.outsider.ne.kr/)
-09. 잔디 블로그(http://blog.jandi.com/ko/)
-10. 티몬의 개발이야기(http://tmondev.blog.me/)
-```
-
 ## \#lifehack_생활팁
 잡다한 생활의 지혜를 나누는 채널 입니다.
-
-## \#google-cloud-zam 
-멤버와 함께 팀을 만들어 Google Cloud를 공부하는 채널 입니다.
-GCP에 관심이 많으신분들은 참석 해보세요!
 
 ## \#지름신
 구매한 물건을 공유 및 소개 하는 채널 입니다.
@@ -156,22 +140,23 @@ GCP에 관심이 많으신분들은 참석 해보세요!
 ## \#fishing
 낚시에 관련된 정보를 공유하는 채널 입니다.
 
-## \#diablo
-디아블로에 관련된 정보를 공유하는 채널 입니다.
+## \#tech_geeknews
+다양한 it 소식을 받아볼 수 있는 채널입니다.
 
 # 운영진
 기타 궁금한신 점이 있으시면 아래의 운영진들에게 문의 해주세요.
+「*」표시가 있는 운영진은 최근 활동이 활발한 운영진입니다.
 ```
-@sangjun
+*@sangjun
 @manggu
 @haneri
-@daebum-lee
+*@daebum-lee
 @neverone
-@yoda
-@김범녕
+*@yoda
+*@김범녕
 @KIM HYEMI
-@Seongjoo KIM
+*@Seongjoo KIM
 @Chung
-@정우현
-@Eunsu Jang
+*@정우현
+*@Eunsu Jang
 ```
